@@ -1,0 +1,16 @@
+
+C
+java:S1452$"&Remove usage of generic wildcard type.(¸¨Ã²8ëŒÆàõ0
+H
+java:S1452L"&Remove usage of generic wildcard type.(²à­Šûÿÿÿÿ8õŒÆàõ0
+B
+java:S1452c"&Remove usage of generic wildcard type.(Ñ¿Î8ùŒÆàõ0
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(Ìï¾†8ûŒÆàõ0
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8üŒÆàõ0
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(Ùº§â8üŒÆàõ0
+H
+java:S1602z",Remove useless curly braces around statement(á°ô38ÿŒÆàõ0
+s
+java:S1128"VRemove this unused import 'com.skyapi.weatherforecast.exception.GeolocationException'.(ç›¹ø8‚Æàõ0
+x
+java:S1128"[Remove this unused import 'com.skyapi.weatherforecast.exception.LocationNotFoundException'.(ÿø¶¿8Ô€Êàõ0

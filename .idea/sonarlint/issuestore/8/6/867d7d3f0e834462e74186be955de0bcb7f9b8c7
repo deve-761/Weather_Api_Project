@@ -1,0 +1,15 @@
+
+C
+java:S1452#"&Remove usage of generic wildcard type.(ƒÛğ¶8Îä˜õ0
+C
+java:S1452/"&Remove usage of generic wildcard type.(ÈË‰Í8Òä˜õ0
+C
+java:S14526"&Remove usage of generic wildcard type.(³Å8Öä˜õ0
+H
+java:S1452="&Remove usage of generic wildcard type.(¹ÕóÖúÿÿÿÿ8Øä˜õ0
+o
+java:S6204F"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8œª…õ0
+Z
+java:S1612E"=Replace this lambda with method reference 'this::entity2DTO'.(ğß£Ï8Òù™õ0
+x
+java:S1128"[Remove this unused import 'com.skyapi.weatherforecast.exception.LocationNotFoundException'.(ÿø¶¿8”²Òàõ0
